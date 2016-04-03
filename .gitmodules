@@ -1,0 +1,16 @@
+[submodule "MaximVarlamov"]
+  path = MaximVarlamov
+  url = https://github.com/CodingHelpers/MaximVarlamov
+  ignore = all
+
+[submodule "GlebRevunov"]
+  path = GlebRevunov
+  url = https://github.com/CodingHelpers/GlebRevunov
+  ignore = all
+
+[submodule "ValerySolomatin"]
+  path = ValerySolomatin     
+  url = https://github.com/CodingHelpers/ValerySolomatin
+  ignore = all
+
+
