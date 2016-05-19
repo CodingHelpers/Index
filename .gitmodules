@@ -13,4 +13,17 @@
   url = https://github.com/CodingHelpers/ValerySolomatin
   ignore = all
 
+[submodule "DimaKorol"]
+  path = DimaKorol     
+  url = https://github.com/CodingHelpers/DimaKorol
+  ignore = all
 
+[submodule "KatiTimofeeva"]
+  path = KatiTimofeeva     
+  url = https://github.com/CodingHelpers/KatiTimofeeva
+  ignore = all
+
+[submodule "DaniilPotashev"]
+  path = DaniilPotashev     
+  url = https://github.com/CodingHelpers/DaniilPotashev
+  ignore = all
